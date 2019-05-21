@@ -8,6 +8,7 @@
 #ifndef __BITFIELD_H__
 #define __BITFIELD_H__
 
+#include <math.h>
 #include <iostream>
 
 using namespace std;
