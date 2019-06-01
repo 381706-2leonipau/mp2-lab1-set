@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-set(PROJECT_NAME set)
+set(PROJECT_NAME 381706-2_pauzin_lab)
 project(${PROJECT_NAME})
 
 # TODO(Kornyakov): not sure if these lines are needed
